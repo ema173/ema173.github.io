@@ -1,17 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: A brief personal description
+subtitle: Personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Ema, and I am currently working on my project HOL 1. I enjoy spending time in nature, doing various sports, and I am always interested in learning new things.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Medical biology bachelor degree (2022 - 2025)
+- Master in Health data science (2025 - present )
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Assistent of manager (2020 - 2023)
+- Kids swimmer coach (2020 - present)
