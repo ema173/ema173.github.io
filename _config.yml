@@ -45,8 +45,8 @@ social-network-links:
 #  snapchat: deanat78
   instagram: e.stangova
 #  spotify: yourname
-  whatsapp: +421903418891
-  telefone: +421903418891
+# whatsapp: +421903418891
+  telefone: "+421903418891"
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -72,7 +72,7 @@ share-links-active:
   instagram: true
   github: true
   linkedin: true
-  whatsapp: true
+# whatsapp: true
   email: true
   vk: false
 
@@ -122,7 +122,7 @@ navbar-border-col: "#E0E0E0"
 footer-col: "#F0F0F0"
 footer-text-col: "#888888"
 footer-link-col: "#2F2F2F"
-footer-hover-col: "#5FA8D3
+footer-hover-col: "#5FA8D3"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
