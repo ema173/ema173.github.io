@@ -42,5 +42,11 @@ is transforming biomedical research by making advanced data analysis more access
 
 [Sharma, N. (2025). Cloud Computing for Biology Research.](https://bitesizebio.com/84263/cloud-computing-for-biology/)
 
+<script>
+fetch("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=11299028&retmode=json")
+  .then(response => response.json())
+  .then(data => console.log(data));
+</script>
+
 {: .box-error}
 **regulary check our page for more**
