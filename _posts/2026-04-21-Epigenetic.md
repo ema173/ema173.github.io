@@ -48,5 +48,22 @@ fetch("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=
   .then(data => console.log(data));
 </script>
 
+## 🧪 Example of cloud-based data processing
+
+The following example shows a simplified workflow of how epigenetic data could be processed in a cloud environment using Python:
+
+~~~
+# Example of processing genomic data in a cloud environment
+
+import pandas as pd
+
+data = pd.read_csv("epigenetic_data.csv")
+
+# simple filtering
+filtered = data[data["expression"] > 0.5]
+
+print(filtered.head())
+~~~
+
 {: .box-error}
 **regulary check our page for more**
