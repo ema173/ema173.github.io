@@ -35,8 +35,11 @@ is transforming biomedical research by making advanced data analysis more access
 ![Exploratory fugure](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f4c1/11299028/2bf7f34f251c/bbae352f1.jpg){: .mx-auto.d-block :}
 
 **References**
+
 [Ruprecht, N.A. et al. (2024). Transcriptomics and epigenetic data integration using cloud computing.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11299028/)
+
 [Xinyang Yu. et al. (2024/2025). Cancer epigenetics: from laboratory studies and clinical trials to precision medicine.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10789753/)
+
 [Sharma, N. (2025). Cloud Computing for Biology Research.](https://bitesizebio.com/84263/cloud-computing-for-biology/)
 
 {: .box-error}
