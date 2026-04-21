@@ -33,6 +33,7 @@ Overall
 is transforming biomedical research by making advanced data analysis more accessible, faster, and more efficient.
 
 ![Exploratory fugure](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f4c1/11299028/2bf7f34f251c/bbae352f1.jpg){: .mx-auto.d-block :}
+
 The figure illustrates the Google Cloud architecture used in the creation of the module, as seen from the perspectives of both the developer and the user. The figure demonstrates the essential elements used in the creation of modules, such as Google Storage Buckets, Nextflow, and R Jupyter Notebook. It also elucidates that users have the option to either commence from the beginning or utilize pre-existing modules to acquire knowledge about the integration of epigenetic and transcriptomic data.
 
 **References**
