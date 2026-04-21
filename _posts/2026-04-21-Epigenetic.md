@@ -27,8 +27,8 @@ Cloud computing also supports:
 
 This is especially relevant in epigenetics, where understanding how lifestyle factors (such as diet or environment) influence gene expression requires analyzing complex, large-scale datasets.
 
-Overall, 
 {: .box-warning} 
+Overall 
 **cloud computing**
 is transforming biomedical research by making advanced data analysis more accessible, faster, and more efficient.
 
